@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure/ Cloud Projects</b>
-  - (Creating a Live SOC / Honeynet in Azure) (https://github.com/CarlosUrena1/Azure-Cloud-SOC)
+- <b>Azure / Cloud Projects</b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/CarlosUrena1/Azure-Cloud-SOC)
 
 <h2>📺 Popular YouTube Videos</h2>
 
