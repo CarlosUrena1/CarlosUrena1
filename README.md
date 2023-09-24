@@ -15,7 +15,7 @@ My journey in Cybersecurity was born out of my passionate curiosity and need to 
 
 Ready to be molded and excel! Let's connect!
 
-Happy place: Local movie theater.
+My Happy place: Local movie theater.
 
 - ⚡ Fun fact: I lived in South Korea for 7 months in 2022 and loved the land of the morning calm!
 -->
